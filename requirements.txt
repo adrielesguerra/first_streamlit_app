@@ -1,2 +1,2 @@
 # requirements.txt
-snowflake-connector-phyton==23.2.1
+snowflake-connector-phyton
